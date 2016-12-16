@@ -13,7 +13,7 @@
     "can-observation": "^3.0.3",
     "can-set": "^1.0.2",
     "can-stache": "^3.0.13",
-    "can-stache-bindings": "^3.0.5",
+    "can-stache-bindings": "^3.0.6",
     "can-types": "^0.1.0",
     "can-util": "^3.0.13",
     "can-view-callbacks": "^3.0.2",
